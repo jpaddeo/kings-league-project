@@ -338,7 +338,7 @@
             "shortName": "JFC"
           }
         ],
-        "score": "0 – 0"
+        "score": "3 – 2"
       },
       {
         "timestamp": 1674399600000,
@@ -355,7 +355,7 @@
             "shortName": "KNS"
           }
         ],
-        "score": "0 – 0"
+        "score": "(1) 2 – 2 (2)"
       },
       {
         "timestamp": 1674403200000,
@@ -372,7 +372,7 @@
             "shortName": "ELB"
           }
         ],
-        "score": "0 – 0"
+        "score": "2 – 5"
       },
       {
         "timestamp": 1674406800000,
@@ -389,7 +389,7 @@
             "shortName": "RDB"
           }
         ],
-        "score": "0 – 0"
+        "score": "5 – 1"
       },
       {
         "timestamp": 1674410400000,
@@ -406,7 +406,7 @@
             "shortName": "SAI"
           }
         ],
-        "score": "0 – 0"
+        "score": "(3) 1 – 1 (2)"
       },
       {
         "timestamp": 1674414000000,
@@ -423,7 +423,7 @@
             "shortName": "TFC"
           }
         ],
-        "score": "0 – 0"
+        "score": "5 – 1"
       }
     ]
   },
@@ -773,40 +773,6 @@
         "hour": null,
         "teams": [
           {
-            "id": "el-barrio",
-            "name": "El Barrio",
-            "shortName": "ELB"
-          },
-          {
-            "id": "rayo-barcelona",
-            "name": "Rayo de Barcelona",
-            "shortName": "RDB"
-          }
-        ],
-        "score": "0 – 0"
-      },
-      {
-        "timestamp": null,
-        "hour": null,
-        "teams": [
-          {
-            "id": "saiyans-fc",
-            "name": "Saiyans FC",
-            "shortName": "SAI"
-          },
-          {
-            "id": "kunisports",
-            "name": "Kunisports",
-            "shortName": "KNS"
-          }
-        ],
-        "score": "0 – 0"
-      },
-      {
-        "timestamp": null,
-        "hour": null,
-        "teams": [
-          {
             "id": "aniquiladores",
             "name": "Aniquiladores FC",
             "shortName": "ANI"
@@ -815,6 +781,23 @@
             "id": "jijantes",
             "name": "Jijantes FC",
             "shortName": "JFC"
+          }
+        ],
+        "score": "0 – 0"
+      },
+      {
+        "timestamp": null,
+        "hour": null,
+        "teams": [
+          {
+            "id": "el-barrio",
+            "name": "El Barrio",
+            "shortName": "ELB"
+          },
+          {
+            "id": "rayo-barcelona",
+            "name": "Rayo de Barcelona",
+            "shortName": "RDB"
           }
         ],
         "score": "0 – 0"
@@ -841,6 +824,23 @@
         "hour": null,
         "teams": [
           {
+            "id": "saiyans-fc",
+            "name": "Saiyans FC",
+            "shortName": "SAI"
+          },
+          {
+            "id": "kunisports",
+            "name": "Kunisports",
+            "shortName": "KNS"
+          }
+        ],
+        "score": "0 – 0"
+      },
+      {
+        "timestamp": null,
+        "hour": null,
+        "teams": [
+          {
             "id": "ultimate-mostoles",
             "name": "Ultimate Móstoles",
             "shortName": "ULT"
@@ -858,23 +858,6 @@
   {
     "date": "05/03/2023",
     "matches": [
-      {
-        "timestamp": null,
-        "hour": null,
-        "teams": [
-          {
-            "id": "rayo-barcelona",
-            "name": "Rayo de Barcelona",
-            "shortName": "RDB"
-          },
-          {
-            "id": "saiyans-fc",
-            "name": "Saiyans FC",
-            "shortName": "SAI"
-          }
-        ],
-        "score": "0 – 0"
-      },
       {
         "timestamp": null,
         "hour": null,
@@ -939,6 +922,23 @@
             "id": "1k",
             "name": "1K FC",
             "shortName": "1K"
+          }
+        ],
+        "score": "0 – 0"
+      },
+      {
+        "timestamp": null,
+        "hour": null,
+        "teams": [
+          {
+            "id": "rayo-barcelona",
+            "name": "Rayo de Barcelona",
+            "shortName": "RDB"
+          },
+          {
+            "id": "saiyans-fc",
+            "name": "Saiyans FC",
+            "shortName": "SAI"
           }
         ],
         "score": "0 – 0"
