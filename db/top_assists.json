@@ -352,10 +352,18 @@
     "image": "https://kingsleague.dev/teams/logos/saiyans-fc.svg"
   },
   {
+    "playerName": "Pol Alme",
+    "gamesPlayed": 2,
+    "assists": 1,
+    "rank": 45,
+    "team": "Saiyans FC",
+    "image": "https://kingsleague.dev/teams/logos/saiyans-fc.svg"
+  },
+  {
     "playerName": "Guti",
     "gamesPlayed": 3,
     "assists": 1,
-    "rank": 45,
+    "rank": 46,
     "team": "Ultimate Móstoles",
     "image": "https://kingsleague.dev/teams/logos/ultimate-mostoles.svg"
   },
@@ -363,7 +371,7 @@
     "playerName": "Aleix",
     "gamesPlayed": 4,
     "assists": 1,
-    "rank": 46,
+    "rank": 47,
     "team": "Ultimate Móstoles",
     "image": "https://kingsleague.dev/teams/logos/ultimate-mostoles.svg"
   },
@@ -371,7 +379,7 @@
     "playerName": "Lucca",
     "gamesPlayed": 4,
     "assists": 1,
-    "rank": 47,
+    "rank": 48,
     "team": "Ultimate Móstoles",
     "image": "https://kingsleague.dev/teams/logos/ultimate-mostoles.svg"
   },
@@ -379,7 +387,7 @@
     "playerName": "Sergio G.",
     "gamesPlayed": 2,
     "assists": 1,
-    "rank": 48,
+    "rank": 49,
     "team": "Ultimate Móstoles",
     "image": "https://kingsleague.dev/teams/logos/ultimate-mostoles.svg"
   },
@@ -387,16 +395,8 @@
     "playerName": "De la Red",
     "gamesPlayed": 2,
     "assists": 1,
-    "rank": 49,
+    "rank": 50,
     "team": "Ultimate Móstoles",
     "image": "https://kingsleague.dev/teams/logos/ultimate-mostoles.svg"
-  },
-  {
-    "playerName": "B. Sierra",
-    "gamesPlayed": 4,
-    "assists": 1,
-    "rank": 50,
-    "team": "XBUYER TEAM",
-    "image": "https://kingsleague.dev/teams/logos/xbuyer.svg"
   }
 ]
